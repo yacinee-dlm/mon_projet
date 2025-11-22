@@ -1,0 +1,6 @@
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Dossier backup
+backup/
